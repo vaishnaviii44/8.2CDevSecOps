@@ -215,3 +215,4 @@ When the wizard is done, restart the application and run the exploits again to c
 Testing Jenkins auto trigger
 Webhook final test
 Webhook working test
+Polling SCM test
